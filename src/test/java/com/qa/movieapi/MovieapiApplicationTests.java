@@ -1,13 +1,14 @@
-package com.qa.dogapi;
+package com.qa.movieapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DogapiApplicationTests {
+class MovieapiApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
+	
 
 }
